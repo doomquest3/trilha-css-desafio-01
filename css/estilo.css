@@ -80,6 +80,7 @@ h2{
 
 }
 
+/* Image do banner */
 .banner .logo img{
     margin: auto;
     width: 100%;
@@ -88,6 +89,7 @@ h2{
 
 }
 
+/* Botão do banner */
 .banner .banner-content button{
     color: #31a8dd;
     font-size: 1rem;
@@ -102,17 +104,20 @@ h2{
 
 }
 
+/* Contéudo principal de curso */
 #course-content{
     width: 49rem;
     text-align: center;
 
 }
 
+/* Lista de itens de curso */
 #course-content .modules-list{
     margin: 2rem 0;
 
 }
 
+/* Item individual da lista */
 #course-content .modules-list .module{
     color: white;
     width: 530px;
@@ -125,11 +130,13 @@ h2{
 
 }
 
+/* Palavra de item */
 #course-content .modules-list .module span{
     color: #33A8DB;
 
 }
 
+/* Conteúdo de imagem */
 #transform-world{
     height: 5rem;
     background-size: cover;
@@ -141,6 +148,7 @@ h2{
 
 }
 
+/* Texto da imagem */
 #transform-world p{
     font-weight: 900;
     font-size: 3.5rem;
@@ -150,12 +158,14 @@ h2{
 
 }
 
+/* Conteúdo de imagem falando sobre usuários */
 #professional-challenges{
     text-align: center;
     width: 50rem;
 
 }
 
+/* Ajustando as margens da imagem */
 #professional-challenges img{
     margin: 2rem 0;
 
